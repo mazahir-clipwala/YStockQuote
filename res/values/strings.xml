@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YStockQuote</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="stockSymbolTV">Stock Symbol</string>
+    <string name="searchBT">Search</string>
+    <string name="resultsTV">Results</string>
+    <string name="clearAllBT">Clear All</string>
+    <string name="showBT">Show</string>
+    <string name="title_activity_show_stock_info">ShowStockInfo</string>
+
+    <string name="changeTV">Change</string>
+    
+    <string name="daysHighTV">Days High</string>
+    <string name="daysLowTV">Days Low</string>
+    
+    
+</resources>
